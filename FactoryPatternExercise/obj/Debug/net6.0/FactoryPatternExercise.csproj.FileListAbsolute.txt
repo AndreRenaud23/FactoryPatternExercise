@@ -1,0 +1,15 @@
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.csproj.AssemblyReference.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.AssemblyInfoInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.AssemblyInfo.cs
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.exe
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.deps.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.runtimeconfig.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\refint\FactoryPatternExercise.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.genruntimeconfig.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\ref\FactoryPatternExercise.dll
